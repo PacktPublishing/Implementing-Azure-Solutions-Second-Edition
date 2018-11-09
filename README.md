@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Hands-On Data Science and Python Machine Learning [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-and-python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781787280748) [[Amazon]](https://www.amazon.com/dp/1787280748)
 
 * Kali Linux Cookbook - Second Edition [[Packt]](https://www.packtpub.com/networking-and-servers/kali-linux-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784390303) [[Amazon]](https://www.amazon.com/dp/1784390305)
-## Get to Know the Author
+## Get to Know the Authors
 **Florian Klaffenbach**
  is currently working as Technology Solutions Professional at Microsoft. He is one of the well-known experts when it comes to hybrid cloud scenarios, cloud connectivity, and cloud environment optimization. Before he started at Microsoft, he worked at several companies in different roles, like as technical Community Manager and Solution Expert at Dell or Solutions Architect at CGI Germany. He is also one of Packt's authors and worked on books like Implementing Azure Solutions first and second edition and multi-cloud for architect. He spends his free time with his wife and little son and is currently waiting for his second son.
 
