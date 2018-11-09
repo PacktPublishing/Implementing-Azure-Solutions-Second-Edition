@@ -13,7 +13,7 @@ This book covers the following exciting features:
 * Create and manage a Kubernetes cluster in Azure Kubernetes Service (AKS)
 * Implement site-to-site VPN and ExpressRoute connections in your environment
 * Explore the best practices in building and deploying app services
-* Use Telemetry to monitor your Azure SolutionsS
+* Use Telemetry to monitor your Azure Solutions
 * Design an Azure IoT solution and learn how to operate in different scenarios
 * Implement a Hybrid Azure Design using Azure Stack
 
